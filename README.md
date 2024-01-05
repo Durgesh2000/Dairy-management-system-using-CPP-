@@ -1,4 +1,5 @@
 Dairy management system using C++
+
 Introduction:
 The “Dairy Management System” showcased here represents a cutting-edge C++ project designed to revolutionize the very core of your milk dairy enterprise. This exceptional system empowers you to masterfully oversee every crucial facet that ensures the seamless operation of your dairy. From meticulously tracking milk deposits to effortlessly managing animal meals, facilitating loan applications, and effortlessly sharing vital dairy-related information, this system paves the way for unparalleled dairy excellence.
 
